@@ -14,48 +14,7 @@ namespace FundsManager
 
         public Manager()
         {
-            Transactions = new List<Transaction>
-{
-// יום שני - 16 ביוני
-new Transaction(350, "Sold Old Furniture", true, false, PaymentMethod.Cash, new DateTime(2025, 6, 16)),
-new Transaction(90, "Supermarket", false, false, PaymentMethod.CreditCard, new DateTime(2025, 6, 16)),
-new Transaction(25, "Parking", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 16)),
-
-// יום שלישי - 17 ביוני
-new Transaction(2100, "Website Design Project", true, false, PaymentMethod.BankTransfer, new DateTime(2025, 6, 17)),
-new Transaction(18, "Lunch", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 17)),
-new Transaction(60, "Streaming Service", false, true, PaymentMethod.CreditCard, new DateTime(2025, 6, 17)),
-
-// יום רביעי - 18 ביוני
-new Transaction(600, "Gift from Family", true, false, PaymentMethod.BankTransfer, new DateTime(2025, 6, 18)),
-new Transaction(850, "Clothing Purchase", false, false, PaymentMethod.CreditCard, new DateTime(2025, 6, 18)),
-new Transaction(45, "Cafe with Friends", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 18)),
-
-// יום חמישי - 19 ביוני
-new Transaction(90, "Tutoring Session", true, false, PaymentMethod.Cash, new DateTime(2025, 6, 19)),
-new Transaction(40, "Gasoline", false, false, PaymentMethod.CreditCard, new DateTime(2025, 6, 19)),
-new Transaction(12, "Shawarma", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 19)),
-
-// יום שישי - 20 ביוני
-new Transaction(1200, "Weekly Salary", true, true, PaymentMethod.BankTransfer, new DateTime(2025, 6, 20)),
-new Transaction(150, "Weekend Groceries", false, false, PaymentMethod.CreditCard, new DateTime(2025, 6, 20)),
-new Transaction(50, "Bakery and Wine", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 20)),
-
-// שבת - 21 ביוני
-new Transaction(0, "No Transactions", true, false, PaymentMethod.Cash, new DateTime(2025, 6, 21)), // שבת שקטה :)
-
-// יום ראשון - 22 ביוני (היום)
-new Transaction(1200, "Freelance Project", true, false, PaymentMethod.BankTransfer, new DateTime(2025, 6, 22)),
-new Transaction(25, "Bus Ticket", false, false, PaymentMethod.CreditCard, new DateTime(2025, 6, 22)),
-new Transaction(448, "Groceries - Quick Buy", false, false, PaymentMethod.Cash, new DateTime(2025, 6, 22)),
-new Transaction(20, "Gift", true, false, PaymentMethod.Cash, new DateTime(2025, 6, 22)),
-new Transaction(89, "Phone Bill", false, true, PaymentMethod.CreditCard, new DateTime(2025, 6, 22))
-
-
-};
-
-
-
+            Transactions = new List<Transaction>();
             Balance = 0;
         }
 

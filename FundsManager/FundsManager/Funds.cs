@@ -26,7 +26,6 @@ namespace FundsManager
             SetAnchors();
             UpdateUI();
             LoadChart();
-            Math.Sqrt(3);
         }
 
         #region events

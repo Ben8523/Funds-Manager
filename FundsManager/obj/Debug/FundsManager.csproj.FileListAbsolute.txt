@@ -1,0 +1,10 @@
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.csproj.AssemblyReference.cache
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.Funds.resources
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.Properties.Resources.resources
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.csproj.GenerateResource.cache
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.csproj.CoreCompileInputs.cache
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\bin\Debug\FundsManager.exe.config
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\bin\Debug\FundsManager.exe
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\bin\Debug\FundsManager.pdb
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.exe
+D:\פרויקטים\Funds Manager\FundsManager\FundsManager\obj\Debug\FundsManager.pdb

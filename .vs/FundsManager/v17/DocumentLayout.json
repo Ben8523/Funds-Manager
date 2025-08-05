@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\funds manager\\fundsmanager\\fundsmanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\stylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\stylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\funds.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\funds.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\fundsmanager\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84259E1F-3340-4C33-9966-C4D357D04633}|FundsManager\\FundsManager.csproj|solutionrelative:fundsmanager\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funds.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Funds.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.cs",
+              "RelativeToolTip": "FundsManager\\Funds.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:34:22.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funds.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Funds.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.cs [Design]",
+              "RelativeToolTip": "FundsManager\\Funds.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:36:52.671Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleHelper.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\StyleHelper.cs",
+              "RelativeDocumentMoniker": "FundsManager\\StyleHelper.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\StyleHelper.cs",
+              "RelativeToolTip": "FundsManager\\StyleHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:02:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Program.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Program.cs",
+              "RelativeToolTip": "FundsManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:18:39.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "FundsManager\\PaymentMethod.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\PaymentMethod.cs",
+              "RelativeToolTip": "FundsManager\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:13:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Manager.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Manager.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Manager.cs",
+              "RelativeToolTip": "FundsManager\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:41:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funds.Designer.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.Designer.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Funds.Designer.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Funds.Designer.cs",
+              "RelativeToolTip": "FundsManager\\Funds.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:41:04.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Transaction.cs",
+              "RelativeDocumentMoniker": "FundsManager\\Transaction.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Funds Manager\\FundsManager\\FundsManager\\Transaction.cs",
+              "RelativeToolTip": "FundsManager\\Transaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:18:39.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
